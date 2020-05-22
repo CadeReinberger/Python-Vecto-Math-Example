@@ -1,6 +1,6 @@
 import numpy as np
 
-rot_mat = [[0, -1], [-1, 0]] #rotates 180 degrees 
+rot_mat = [[0, -1], [-1, 0]] #rotates 90 degrees clockwise
 i_hat = np.array([1, 0])
 j_hat = np.array([0, 1])
 
